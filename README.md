@@ -1,0 +1,2 @@
+# .github
+PegasusAC - FiveM Anticheat
