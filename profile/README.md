@@ -7,7 +7,6 @@
 ✅ **Comprehensive Anticheat Systems** – Protect your server from modders and exploiters.  
 ✅ **Continuous Updates & Improvements** – We stay ahead of new cheat methods.  
 ✅ **Customizable Security Measures** – Tailor detection settings to fit your server needs.  
-✅ **Open-Source & Community-Driven** – Built with transparency and community feedback.  
 
 ## 📌 Get Started
 To explore our **resources** and **anticheat solutions**, visit our repositories in this **organization**.
